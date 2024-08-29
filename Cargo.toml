@@ -1,0 +1,12 @@
+[package]
+name = "imageConverter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24"
+resvg = "0.28"
+usvg = "0.28"
+tiny-skia = "0.8"
+ico = "0.3"
+dirs = "5.0"  # Add this line
